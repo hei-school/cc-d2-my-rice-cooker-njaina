@@ -31,7 +31,7 @@ The Ricecooker is an intelligent and automated rice cooker designed to simplify 
 ``*`` ***``Java script``*** :
 Following the [eslint linter](https://eslint.org/)
 
-``*`` ***``Java``*** : Following the
+``*`` ***``Java``*** : Following the the [java linter](https://www.javatpoint.com/java-linter)
 
 ``*`` ***``Go``***
 
