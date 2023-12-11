@@ -1,9 +1,9 @@
-# Ricecooker
+# *``Ricecooker``*
 
-## Description
+* ## Description
 The Ricecooker is an intelligent and automated rice cooker designed to simplify the rice cooking process. This household appliance offers several features to ensure a convenient and efficient cooking experience.
 
-## Key Features
+* ## Key Features
 1. **Automatic Cooking:** The Ricecooker automatically manages the rice cooking process, adjusting temperature and pressure as needed.
 
 2. **Temperature and Pressure Sensors:** Equipped with sensors to ensure uniform cooking by automatically adjusting parameters.
@@ -24,4 +24,15 @@ The Ricecooker is an intelligent and automated rice cooker designed to simplify 
 
 10. **Compact and Portable Design:** Designed to be compact and portable, suitable for both home use and on-the-go.
 
-## Status
+* ## Status
+***``in development``***
+* ## Coding language
+
+``*`` ***``Java script``*** :
+Following the [eslint linter](https://eslint.org/)
+
+``*`` ***``Java``*** : Following the
+
+``*`` ***``Go``***
+
+``*`` ***``Rust``***
